@@ -4,6 +4,8 @@ Remove Comments is an extension for the [Nova editor](https://nova.app).
 
 It removes comments from the current line or selected lines in your code, supporting various programming languages.
 
+Recommended download from [Nova Extensions](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.remove-comments/) website.
+
 ## Features
 
 - **Smart Comment Detection**: Automatically detects the comment format based on your document's language
