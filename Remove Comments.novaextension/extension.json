@@ -1,0 +1,26 @@
+{
+	"identifier": "com.gingerbeardman.remove-comments",
+	"name": "Remove Comments",
+	"organization": "gingerbeardman",
+	"description": "Remove comments from the current or selected lines, supporting various programming languages",
+	"version": "1.0.0",
+	"repository": "https://github.com/gingerbeardman/Remove-Comments",
+	"bugs": "https://github.com/gingerbeardman/Remove-Comments/issues",
+	"homepage": "https://www.gingerbeardman.com",
+	"funding": "https://ko-fi.com/gingerbeardman",
+	"categories": ["commands"],
+	"entitlements": {},
+	"main": "main.js",
+	"activationEvents": [
+		"onCommand:com.gingerbeardman.removeComments"
+	],
+	"commands": {
+		"editor": [
+			{
+				"title": "Remove Comments from Selection or Current Line",
+				"command": "com.gingerbeardman.removeComments",
+				"shortcut": "ctrl-cmd-/"
+			}
+		]
+	}
+}
