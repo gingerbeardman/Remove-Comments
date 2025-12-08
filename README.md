@@ -19,7 +19,7 @@ Recommended download from [Nova Extensions](https://extensions.panic.com/extensi
 ## Usage
 
 1. Place your cursor on a line with a comment, or select multiple lines
-2. Run the command "Remove Comments from Selection or Current Line" from the Command Palette
+2. Run the command "Remove Comments" from the Command Palette
 3. Comments will be removed from those lines
 
 You can also assign a keyboard shortcut to this command in Nova's preferences (suggested: `Ctrl`+`Cmd`+`/`).

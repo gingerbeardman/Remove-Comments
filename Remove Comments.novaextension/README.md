@@ -11,7 +11,7 @@ To run Remove Comments:
 
 You might also choose to set a keyboard shortcut using **Nova → Settings... → Key Bindings**, such as:
 
-- `Ctrl`+`Cmd`+`/` to invoke **Remove Comments from Selection or Current Line**
+- `Ctrl`+`Cmd`+`/` to invoke **Remove Comments**
 
 ## How It Works
 
