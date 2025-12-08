@@ -6,7 +6,7 @@ It works on the current line or all selected lines, and automatically detects th
 
 To run Remove Comments:
 
-- Select the **Editor → Remove Comments from Selection or Current Line**
+- Select the **Editor → Remove Comments**
 - Open the command palette and type `Remove Comments`
 
 You might also choose to set a keyboard shortcut using **Nova → Settings... → Key Bindings**, such as:
