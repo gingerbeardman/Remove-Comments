@@ -4,6 +4,8 @@ Remove Comments is an extension for the [Nova editor](https://nova.app).
 
 It removes comments from the current line or selected lines in your code, supporting various programming languages.
 
+See the internal [README](/Remove Comments.novaextension/README.md) for more info.
+
 Recommended download from [Nova Extensions](https://extensions.panic.com/extensions/com.gingerbeardman/com.gingerbeardman.remove-comments/) website.
 
 ## Features
@@ -33,10 +35,6 @@ You can also assign a keyboard shortcut to this command in Nova's preferences (s
 - **Haskell** (`--` and `{- -}`)
 - **LaTeX** (`%`)
 - **MATLAB** (`%` and `%{ %}`)
-
-See the internal [README](/Remove Comments.novaextension/README.md) for more info.
-
-Recommended download from [Nova Extensions](https://extensions.panic.com/) website.
 
 ## Licence
 
