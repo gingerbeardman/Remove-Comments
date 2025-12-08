@@ -3,7 +3,7 @@
 	"name": "Remove Comments",
 	"organization": "gingerbeardman",
 	"description": "Remove comments from the current or selected lines, supporting various programming languages",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"repository": "https://github.com/gingerbeardman/Remove-Comments",
 	"bugs": "https://github.com/gingerbeardman/Remove-Comments/issues",
 	"homepage": "https://www.gingerbeardman.com",
